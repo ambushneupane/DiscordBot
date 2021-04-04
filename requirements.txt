@@ -1,4 +1,3 @@
 discord.py
-json.py
 requests.py
 random.py
